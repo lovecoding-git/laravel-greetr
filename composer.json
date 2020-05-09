@@ -1,0 +1,19 @@
+{
+    "name": "lovecoding/greetr",
+    "description": "Greetr - A simple Laravel Package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lovecoding",
+            "email": "me@lovecoding.site"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Lovecoding\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
